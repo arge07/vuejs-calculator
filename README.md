@@ -1,6 +1,7 @@
 # calculator
 
-> A Vue.js project
+![Screenshot_5](https://user-images.githubusercontent.com/37614073/68018028-29a71880-fca9-11e9-991c-c952c6037ebd.png)
+
 
 ## Build Setup
 
